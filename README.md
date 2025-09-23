@@ -1,5 +1,13 @@
-## Hi there 👋
+# Hello And Welcome To Bradley Larkin's Page
 
+I am a self motivated worker that can work hard and deal with complicated and challenging tasks in a timely manner.
+
+
+
+
+- [💼 LinkedIn](https://www.linkedin.com/in/bradley-l-81266098/)
+- [🌐 my website](https://github.com/UnavoidableArrowgance/Bradley-C-Larkin-profile)
+- [📫 email me](vpblarkin@gmail.com)
 <!--
 **UnavoidableArrowgance/UnavoidableArrowgance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
