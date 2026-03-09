@@ -10,7 +10,9 @@ Some standout skills:
 Analysis, learning then applying, 
 
 My current knowledge base:
+
 (add icons for skills)
+
 Front-end languages:
 Html, CSS, JavaScript, Typescript, React, React Native
 
@@ -21,6 +23,7 @@ Work processes:
 SCRUM, Sprints, Kanban, XP, Agile, Lean
 
 #Top 3 exemplary projects:
+
 [For overall function, Javascript manipulation, and advanced Json pull usability](https://unavoidablearrowgance.github.io/Kirby-AirRiders-Stat-Chart/)
 
 [For an OK website with advanced form checking after trying to submit, focused on advanced user feedback and accessibility](https://unavoidablearrowgance.github.io/Mini-Golf_Supplies/)
@@ -35,7 +38,9 @@ SCRUM, Sprints, Kanban, XP, Agile, Lean
 
 
 #Fun stuff
+
 [Codepen game](https://codepen.io/Bradley-Larkin-Infinity-Golf/pen/myVGQaa)
+
 Tic Tac Toe(https://codepen.io/Bradley-Larkin-Infinity-Golf)
 
 
