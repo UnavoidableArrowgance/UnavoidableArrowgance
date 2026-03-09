@@ -37,14 +37,14 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 
 [For a Perfect design showing a 1 to 1 translation from a design prototype, multi size layouts, on paper to full web page with competent CSS prowess.](https://unavoidablearrowgance.github.io/Wunderlust/wunderlust-majorca)
 
-
+## My Links
 - [💼 LinkedIn](https://www.linkedin.com/in/bradley-l-81266098/)
 - [✒️CodePen](https://codepen.io/Bradley-Larkin-Infinity-Golf)
 - [🌐 my website]
 - [📫 email me](mailto:Bradley.Larkin.techdev@gmail.com?subject=Your%20Subject&body=Body%20text)
 
 
-#Fun stuff
+### Fun stuff
 
 [Codepen game](https://codepen.io/Bradley-Larkin-Infinity-Golf/pen/myVGQaa)
 
