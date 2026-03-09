@@ -29,7 +29,7 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 ### Work processes:
 **SCRUM, Sprints, Kanban, XP, Agile, Lean**
 
-
+<br><br>
 ## Top 3 exemplary projects:
 
 [For overall function, Javascript manipulation, and advanced Json pull usability](https://unavoidablearrowgance.github.io/Kirby-AirRiders-Stat-Chart/)
