@@ -13,15 +13,14 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 ### Some standout skills:
 **Analysis, learning then applying,**
 
-
-(add icons for skills)
-
 ### Front-end languages:
 **Html, CSS, JavaScript, Typescript, React, React Native**
+(add icons for skills)
 
 
 ### Back-end Languages:
 **Java, Python, Node JS, MySQL**
+(add icons for skills)
 
 
 
