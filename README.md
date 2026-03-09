@@ -11,7 +11,7 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 ## Knowledge and skill base
 
 ### Some standout skills:
-**Analysis, learning then applying, **
+**Analysis, learning then applying,**
 
 
 ### My current knowledge base:
