@@ -2,7 +2,7 @@
 
 I am an experienced developer with skills in multiple programming languages. This includes front end and back end languages along with Database coding such as SQL.
 
-I have a Bachelors of science in Full-stack web development and above a 4.0 GPA when I graduated. Many of mine are available here on github or on codepen, my profile here. They often went above and beyond what was required and used self learned techniques from self studies beyond what was taught in class.
+I have a Bachelors of science in Full-stack web development and above a 4.0 GPA when I graduated. Many of mine are available here on github or on codepen, [my Codepen profile here](https://codepen.io/Bradley-Larkin-Infinity-Golf). They often went above and beyond what was required and used self learned techniques from self studies beyond what was taught in class.
 
 One of my biggest strengths is my ability to adapt and learn quickly, Accomplishing advanced projects rather quickly even in unknown programs and programming languages.
 
