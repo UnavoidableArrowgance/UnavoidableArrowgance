@@ -14,6 +14,7 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 **Analysis, learning then applying,**
 
 
+
 ### My current knowledge base:
 
 (add icons for skills)
@@ -24,6 +25,7 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 
 ### Back-end Languages:
 **Java, Python, Node JS, MySQL**
+
 
 
 ### Work processes:
