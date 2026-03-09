@@ -41,7 +41,7 @@ SCRUM, Sprints, Kanban, XP, Agile, Lean
 
 [Codepen game](https://codepen.io/Bradley-Larkin-Infinity-Golf/pen/myVGQaa)
 
-Tic Tac Toe(https://codepen.io/Bradley-Larkin-Infinity-Golf)
+Tic Tac Toe - if i get this up and running
 
 
 
