@@ -14,9 +14,6 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 **Analysis, learning then applying,**
 
 
-
-### My current knowledge base:
-
 (add icons for skills)
 
 ### Front-end languages:
