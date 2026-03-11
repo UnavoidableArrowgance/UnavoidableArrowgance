@@ -12,6 +12,7 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 
 ### Some standout skills:
 **Analysis, learning then applying, Wireframing/prototyping, unit testing, Conflict resolution, Critical thinking, Adobe suite and Microsoft suite of products/programs**
+  
   (Microsoft Word, Powerpoint, Excel, 
   Adobe Indesign, Illustrator, Photoshop, After effects, Media encoder, Premier, Bridge, Lightroom, Acrobat, Fonts)
 
