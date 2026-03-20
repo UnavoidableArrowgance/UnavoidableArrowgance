@@ -11,7 +11,7 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 ## 🧠 Tech Stack & Skills
 
 ### 💻 Front-End
-<table align="center">
+<table align="left">
 <tr>
 <td align="center" width="120">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br><br>
@@ -43,7 +43,7 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 <br>
 
 ### 🖥 Back-End
-<table align="center">
+<table align="left">
 <tr>
 <td align="center" width="140">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br><br>
@@ -67,7 +67,7 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 <br>
 
 ### ⚙️ Work Processes
-<table align="center">
+<table align="left">
 <tr>
 <td align="center" width="120"><strong>SCRUM</strong></td>
 <td align="center" width="120"><strong>Sprints</strong></td>
