@@ -9,7 +9,7 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 <br><br>
 ---
 ## 🧠 Professional Skills & Tools
-<br><br>
+
 ### ⭐ Standout Skills
   Analysis • Rapid Learning & Application • Wireframing & Prototyping • Unit Testing  
 Conflict Resolution • Critical Thinking
@@ -21,7 +21,7 @@ Adobe Suite (InDesign, Illustrator, Photoshop, After Effects, Premiere, Lightroo
 <br><br>
 ---
 ## 💻 Tech Stack
-<br><br>
+
 ### 🌐 Front-End
 <table>
 <tr>
