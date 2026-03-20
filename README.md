@@ -7,7 +7,7 @@ I have a Bachelors of science in Full-stack web development and above a 4.0 GPA 
 One of my biggest strengths is my ability to adapt and learn quickly, Accomplishing advanced projects rather quickly even in unknown programs and programming languages.
 
 <br><br>
----
+------
 ## 🧠 Professional Skills & Tools
 
 ### ⭐ Standout Skills
