@@ -53,7 +53,7 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 
 
 ## My Links
-- [💼 LinkedIn](https://www.linkedin.com/in/bradley-l-81266098/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/bradley-l-81266098/)
+- 💼[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/bradley-l-81266098/)
 - [✒️CodePen](https://codepen.io/Bradley-Larkin-Infinity-Golf)
 - [🌐 my website]
 - [📫 email me](mailto:Bradley.Larkin.techdev@gmail.com?subject=Your%20Subject&body=Body%20text)
