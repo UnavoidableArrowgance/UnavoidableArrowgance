@@ -79,20 +79,6 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 </table>
 
 <br><br>
-
-### ⚙️ Work Processes
-<table>
-<tr>
-<td align="center" width="120"><strong>SCRUM</strong></td>
-<td align="center" width="120"><strong>Sprints</strong></td>
-<td align="center" width="120"><strong>Kanban</strong></td>
-<td align="center" width="120"><strong>XP</strong></td>
-<td align="center" width="120"><strong>Agile</strong></td>
-<td align="center" width="120"><strong>Lean</strong></td>
-</tr>
-</table>
-
-<br><br>
 ## 🚀 Top 3 Exemplary Projects
 
 ### 1. Kirby Air Riders Stat Chart
