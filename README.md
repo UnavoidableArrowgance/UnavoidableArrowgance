@@ -14,7 +14,7 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
   Analysis • Rapid Learning & Application • Wireframing & Prototyping • Unit Testing  
 Conflict Resolution • Critical Thinking
 
-🛠 Tools:   
+### 🛠 Tools:   
 Microsoft Suite (Word, PowerPoint, Excel)  
 Adobe Suite (InDesign, Illustrator, Photoshop, After Effects, Premiere, Lightroom)
 
@@ -76,15 +76,15 @@ Adobe Suite (InDesign, Illustrator, Photoshop, After Effects, Premiere, Lightroo
 
 <br>
 
-### ⚙️ Work Processes
+### ⚙️ Workflow & Methodologies
 <table>
 <tr>
-<td align="center" width="120"><strong>SCRUM</strong></td>
-<td align="center" width="120"><strong>Sprints</strong></td>
-<td align="center" width="120"><strong>Kanban</strong></td>
-<td align="center" width="120"><strong>XP</strong></td>
-<td align="center" width="120"><strong>Agile</strong></td>
-<td align="center" width="120"><strong>Lean</strong></td>
+<td align="center" width="120">⚙️<br><strong>SCRUM</strong></td>
+<td align="center" width="120">🏃<br><strong>Sprints</strong></td>
+<td align="center" width="120">📊<br><strong>Kanban</strong></td>
+<td align="center" width="120">⚡<br><strong>XP</strong></td>
+<td align="center" width="120">🔄<br><strong>Agile</strong></td>
+<td align="center" width="120">📉<br><strong>Lean</strong></td>
 </tr>
 </table>
 
