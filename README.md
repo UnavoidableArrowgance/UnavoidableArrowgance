@@ -8,58 +8,58 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 
 
 <br><br>
-## 🧠 Knowledge and Skill Base
+## 🧠 Tech Stack & Skills
 
 ### 💻 Front-End
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
 </p>
 
-<table>
+<table align="center">
 <tr>
-<td align="center">HTML</td>
-<td align="center">CSS</td>
-<td align="center">JavaScript</td>
-<td align="center">TypeScript</td>
-<td align="center">React</td>
-<td align="center">React Native</td>
+<td width="120" align="center">HTML</td>
+<td width="120" align="center">CSS</td>
+<td width="120" align="center">JavaScript</td>
+<td width="120" align="center">TypeScript</td>
+<td width="120" align="center">React</td>
+<td width="120" align="center">React Native</td>
 </tr>
 </table>
 
----
+<br>
 
 ### 🖥 Back-End
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
 </p>
 
-<table>
+<table align="center">
 <tr>
-<td align="center">Java</td>
-<td align="center">Python</td>
-<td align="center">Node.js</td>
-<td align="center">MySQL</td>
+<td width="140" align="center">Java</td>
+<td width="140" align="center">Python</td>
+<td width="140" align="center">Node.js</td>
+<td width="140" align="center">MySQL</td>
 </tr>
 </table>
 
----
+<br>
 
 ### ⚙️ Work Processes
-<table>
+<table align="center">
 <tr>
-<td align="center">SCRUM</td>
-<td align="center">Sprints</td>
-<td align="center">Kanban</td>
-<td align="center">XP</td>
-<td align="center">Agile</td>
-<td align="center">Lean</td>
+<td width="120" align="center">SCRUM</td>
+<td width="120" align="center">Sprints</td>
+<td width="120" align="center">Kanban</td>
+<td width="120" align="center">XP</td>
+<td width="120" align="center">Agile</td>
+<td width="120" align="center">Lean</td>
 </tr>
 </table>
 
