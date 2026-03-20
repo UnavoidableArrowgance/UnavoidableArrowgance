@@ -40,7 +40,9 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 </tr>
 </table>
 
-<br><br>
+<p style="clear: both;"></p>
+
+<br>
 
 ### 🖥 Back-End
 <table align="left">
@@ -64,9 +66,11 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 </tr>
 </table>
 
-<br><br>
+<p style="clear: both;"></p>
 
-### ⚙️ Work Processes
+<br>
+
+### ⚙️ Workflow & Methodologies
 <table align="left">
 <tr>
 <td align="center" width="120" style="padding: 12px;"><strong>SCRUM</strong></td>
@@ -77,6 +81,8 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 <td align="center" width="120" style="padding: 12px;"><strong>Lean</strong></td>
 </tr>
 </table>
+
+<p style="clear: both;"></p>
 
 <br><br>
 ## 🚀 Top 3 Exemplary Projects
