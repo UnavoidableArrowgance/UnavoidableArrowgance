@@ -31,16 +31,29 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 **SCRUM, Sprints, Kanban, XP, Agile, Lean**
 
 <br><br>
-## Top 3 exemplary projects:
+## 🚀 Top 3 Exemplary Projects
 
-[For overall function, Javascript manipulation, and advanced Json pull usability](https://unavoidablearrowgance.github.io/Kirby-AirRiders-Stat-Chart/)
+### 1. Kirby Air Riders Stat Chart
+🔗 https://unavoidablearrowgance.github.io/Kirby-AirRiders-Stat-Chart/  
+- Strong JavaScript functionality  
+- Advanced JSON data handling  
+- Interactive stat visualization  
 
-[For an OK website with advanced form checking after trying to submit, focused on advanced user feedback and accessibility](https://unavoidablearrowgance.github.io/Mini-Golf_Supplies/)
+### 2. Mini Golf Supplies
+🔗 https://unavoidablearrowgance.github.io/Mini-Golf_Supplies/  
+- Advanced form validation  
+- Strong user feedback system  
+- Accessibility-focused design  
 
-[For a Perfect design showing a 1 to 1 translation from a design prototype, multi size layouts, on paper to full web page with competent CSS prowess.](https://unavoidablearrowgance.github.io/Wunderlust/wunderlust-majorca)
+### 3. Wunderlust Majorca
+🔗 https://unavoidablearrowgance.github.io/Wunderlust/wunderlust-majorca  
+- Pixel-perfect design implementation  
+- Responsive multi-size layouts  
+- Strong CSS execution  
+
 
 ## My Links
-- [💼 LinkedIn](https://www.linkedin.com/in/bradley-l-81266098/)
+- [💼 LinkedIn](https://www.linkedin.com/in/bradley-l-81266098/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/bradley-l-81266098/)
 - [✒️CodePen](https://codepen.io/Bradley-Larkin-Infinity-Golf)
 - [🌐 my website]
 - [📫 email me](mailto:Bradley.Larkin.techdev@gmail.com?subject=Your%20Subject&body=Body%20text)
