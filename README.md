@@ -14,21 +14,13 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
   Analysis • Rapid Learning & Application • Wireframing & Prototyping • Unit Testing  
 Conflict Resolution • Critical Thinking
 
-### 🛠 Tools:   
 ### 🛠 Tools
 
-<table>
-<tr>
-<td align="center" width="200">
-  <strong>Microsoft Suite</strong><br><br>
-  Word • PowerPoint • Excel
-</td>
-<td align="center" width="300">
-  <strong>Adobe Suite</strong><br><br>
-  InDesign • Illustrator • Photoshop • After Effects • Premiere • Lightroom
-</td>
-</tr>
-</table>
+**Microsoft Suite**  
+Word • PowerPoint • Excel  
+
+**Adobe Suite**  
+InDesign • Illustrator • Photoshop • After Effects • Premiere • Lightroom  
 
 <br><br>
 ---
