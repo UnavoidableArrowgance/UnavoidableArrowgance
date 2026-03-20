@@ -23,7 +23,7 @@ Word • PowerPoint • Excel
 InDesign • Illustrator • Photoshop • After Effects • Premiere • Lightroom  
 
 <br><br>
-***
+___
 ## 💻 Tech Stack
 
 ### 🌐 Front-End
@@ -95,7 +95,7 @@ InDesign • Illustrator • Photoshop • After Effects • Premiere • Lightr
 </table>
 
 <br><br>
-════════════════════════════════════════════════════════════════════════════
+___
 ## 🚀 Top 3 Exemplary Projects
 
 ### 1. Kirby Air Riders Stat Chart
@@ -117,7 +117,7 @@ InDesign • Illustrator • Photoshop • After Effects • Premiere • Lightr
 - Strong CSS execution  
 
 <br><br>
-══════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+___
 ## My Links
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bradley-l-81266098/)
   
@@ -128,7 +128,7 @@ InDesign • Illustrator • Photoshop • After Effects • Premiere • Lightr
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bradley.Larkin.techdev@gmail.com)
 
 <br><br>
-══════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+___
 ### Fun stuff
 
 [Codepen game](https://codepen.io/Bradley-Larkin-Infinity-Golf/pen/myVGQaa)
