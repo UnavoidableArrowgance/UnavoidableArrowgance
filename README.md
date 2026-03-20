@@ -9,58 +9,72 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 
 <br><br>
 ## 🧠 Tech Stack & Skills
-<br><br>
+
 ### 💻 Front-End
-<table align="left">
+<table>
 <tr>
 <td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>
   <strong>HTML</strong>
 </td>
 <td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>
   <strong>CSS</strong>
 </td>
 <td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>
   <strong>JavaScript</strong>
 </td>
 <td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br>
   <strong>TypeScript</strong>
 </td>
 <td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>
   <strong>React</strong>
 </td>
 <td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>
   <strong>React Native</strong>
 </td>
 </tr>
 </table>
 
-<br><br>
+<br>
 
 ### 🖥 Back-End
 <table>
 <tr>
 <td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>
   <strong>Java</strong>
 </td>
 <td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>
   <strong>Python</strong>
 </td>
 <td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br>
   <strong>Node.js</strong>
 </td>
 <td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>
   <strong>MySQL</strong>
 </td>
+</tr>
+</table>
+
+<br>
+
+### ⚙️ Work Processes
+<table>
+<tr>
+<td align="center" width="120"><strong>SCRUM</strong></td>
+<td align="center" width="120"><strong>Sprints</strong></td>
+<td align="center" width="120"><strong>Kanban</strong></td>
+<td align="center" width="120"><strong>XP</strong></td>
+<td align="center" width="120"><strong>Agile</strong></td>
+<td align="center" width="120"><strong>Lean</strong></td>
 </tr>
 </table>
 
