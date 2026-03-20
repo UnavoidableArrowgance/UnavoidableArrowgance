@@ -11,141 +11,70 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 ## 🧠 Tech Stack & Skills
 
 ### 💻 Front-End
-<table align="center">
+<table align="left">
 <tr>
-<td align="center">
+<td align="center" width="120" style="padding: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>
-  HTML
-</td>
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>
-  CSS
-</td>
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>
-  JavaScript
-</td>
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br>
-  TypeScript
-</td>
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>
-  React
-</td>
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>
-  React Native
-</td>
-</tr>
-</table>
-
----
-
-### 🖥 Back-End
-<table align="center">
-<tr>
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>
-  Java
-</td>
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>
-  Python
-</td>
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br>
-  Node.js
-</td>
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>
-  MySQL
-</td>
-</tr>
-</table>
-
----
-
-### ⚙️ Work Processes
-<table align="center">
-<tr>
-<td align="center">SCRUM</td>
-<td align="center">Sprints</td>
-<td align="center">Kanban</td>
-<td align="center">XP</td>
-<td align="center">Agile</td>
-<td align="center">Lean</td>
-</tr>
-</table>
-
-
-## 🧠 Tech Stack & Skills
-
-### 💻 Front-End
-<table align="center">
-<tr>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br><br>
   <strong>HTML</strong>
 </td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br><br>
+<td align="center" width="120" style="padding: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>
   <strong>CSS</strong>
 </td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br><br>
+<td align="center" width="120" style="padding: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>
   <strong>JavaScript</strong>
 </td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br><br>
+<td align="center" width="120" style="padding: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br>
   <strong>TypeScript</strong>
 </td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br><br>
+<td align="center" width="120" style="padding: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>
   <strong>React</strong>
 </td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br><br>
+<td align="center" width="120" style="padding: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>
   <strong>React Native</strong>
 </td>
 </tr>
 </table>
 
-<br>
+<br><br>
 
 ### 🖥 Back-End
-<table align="center">
+<table align="left">
 <tr>
-<td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br><br>
+<td align="center" width="140" style="padding: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>
   <strong>Java</strong>
 </td>
-<td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br><br>
+<td align="center" width="140" style="padding: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>
   <strong>Python</strong>
 </td>
-<td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br><br>
+<td align="center" width="140" style="padding: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br>
   <strong>Node.js</strong>
 </td>
-<td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br><br>
+<td align="center" width="140" style="padding: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>
   <strong>MySQL</strong>
 </td>
 </tr>
 </table>
 
-<br>
+<br><br>
 
 ### ⚙️ Work Processes
-<table align="center">
+<table align="left">
 <tr>
-<td align="center" width="120"><strong>SCRUM</strong></td>
-<td align="center" width="120"><strong>Sprints</strong></td>
-<td align="center" width="120"><strong>Kanban</strong></td>
-<td align="center" width="120"><strong>XP</strong></td>
-<td align="center" width="120"><strong>Agile</strong></td>
-<td align="center" width="120"><strong>Lean</strong></td>
+<td align="center" width="120" style="padding: 12px;"><strong>SCRUM</strong></td>
+<td align="center" width="120" style="padding: 12px;"><strong>Sprints</strong></td>
+<td align="center" width="120" style="padding: 12px;"><strong>Kanban</strong></td>
+<td align="center" width="120" style="padding: 12px;"><strong>XP</strong></td>
+<td align="center" width="120" style="padding: 12px;"><strong>Agile</strong></td>
+<td align="center" width="120" style="padding: 12px;"><strong>Lean</strong></td>
 </tr>
 </table>
 
