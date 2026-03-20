@@ -8,33 +8,61 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 
 
 <br><br>
-## 🧠 Tech Stack & Skills
+## 🧠 Knowledge and Skill Base
 
 ### 💻 Front-End
-![HTML](https://img.shields.io/badge/HTML-orange?style=flat)
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+</p>
+
+<table>
+<tr>
+<td align="center">HTML</td>
+<td align="center">CSS</td>
+<td align="center">JavaScript</td>
+<td align="center">TypeScript</td>
+<td align="center">React</td>
+<td align="center">React Native</td>
+</tr>
+</table>
 
 ---
 
 ### 🖥 Back-End
-![Java](https://img.shields.io/badge/Java-red?style=flat)
-![Python](https://img.shields.io/badge/Python-blue?style=flat)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</p>
+
+<table>
+<tr>
+<td align="center">Java</td>
+<td align="center">Python</td>
+<td align="center">Node.js</td>
+<td align="center">MySQL</td>
+</tr>
+</table>
 
 ---
 
 ### ⚙️ Work Processes
-![SCRUM](https://img.shields.io/badge/SCRUM-lightgrey?style=flat)
-![Sprints](https://img.shields.io/badge/Sprints-lightgrey?style=flat)
-![Kanban](https://img.shields.io/badge/Kanban-lightgrey?style=flat)
-![XP](https://img.shields.io/badge/XP-lightgrey?style=flat)
-![Agile](https://img.shields.io/badge/Agile-lightgrey?style=flat)
-![Lean](https://img.shields.io/badge/Lean-lightgrey?style=flat)
+<table>
+<tr>
+<td align="center">SCRUM</td>
+<td align="center">Sprints</td>
+<td align="center">Kanban</td>
+<td align="center">XP</td>
+<td align="center">Agile</td>
+<td align="center">Lean</td>
+</tr>
+</table>
+
 <br><br>
 ## 🚀 Top 3 Exemplary Projects
 
