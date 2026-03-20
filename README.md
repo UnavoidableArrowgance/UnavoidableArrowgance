@@ -10,45 +10,58 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 <br><br>
 ## 🧠 Knowledge and Skill Base
 
-### ⭐ Standout Skills
-Analysis • Learning & Application • Wireframing/Prototyping • Unit Testing  
-Conflict Resolution • Critical Thinking  
-
-🛠 Tools:  
-Microsoft Word • PowerPoint • Excel  
-Adobe InDesign • Illustrator • Photoshop • After Effects • Premiere • Lightroom  
-
----
-
 ### 💻 Front-End
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
 </p>
 
-HTML • CSS • JavaScript • TypeScript • React • React Native
+<table>
+<tr>
+<td align="center">HTML</td>
+<td align="center">CSS</td>
+<td align="center">JavaScript</td>
+<td align="center">TypeScript</td>
+<td align="center">React</td>
+<td align="center">React Native</td>
+</tr>
+</table>
 
 ---
 
 ### 🖥 Back-End
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
-Java • Python • Node.js • MySQL
+<table>
+<tr>
+<td align="center">Java</td>
+<td align="center">Python</td>
+<td align="center">Node.js</td>
+<td align="center">MySQL</td>
+</tr>
+</table>
 
 ---
 
 ### ⚙️ Work Processes
-SCRUM • Sprints • Kanban • XP • Agile • Lean
+<table>
+<tr>
+<td align="center">SCRUM</td>
+<td align="center">Sprints</td>
+<td align="center">Kanban</td>
+<td align="center">XP</td>
+<td align="center">Agile</td>
+<td align="center">Lean</td>
+</tr>
+</table>
 
 <br><br>
 ## 🚀 Top 3 Exemplary Projects
