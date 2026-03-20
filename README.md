@@ -43,7 +43,7 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 <br><br>
 
 ### 🖥 Back-End
-<table align="left">
+<table>
 <tr>
 <td align="center" width="140">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br><br>
@@ -67,7 +67,7 @@ One of my biggest strengths is my ability to adapt and learn quickly, Accomplish
 <br><br>
 
 ### ⚙️ Work Processes
-<table align="left">
+<table>
 <tr>
 <td align="center" width="120"><strong>SCRUM</strong></td>
 <td align="center" width="120"><strong>Sprints</strong></td>
