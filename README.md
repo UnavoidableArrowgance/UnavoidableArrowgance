@@ -6,6 +6,7 @@ I have a Bachelors of science in Full-stack web development and above a 4.0 GPA 
 
 One of my biggest strengths is my ability to adapt and learn quickly, Accomplishing advanced projects rather quickly even in unknown programs and programming languages.
 
+<br>
 ---
 ## 🧠 Professional Skills & Tools
 
@@ -17,6 +18,7 @@ Conflict Resolution • Critical Thinking
 Microsoft Suite (Word, PowerPoint, Excel)  
 Adobe Suite (InDesign, Illustrator, Photoshop, After Effects, Premiere, Lightroom)
 
+<br>
 ---
 ## 💻 Tech Stack
 
@@ -88,8 +90,8 @@ Adobe Suite (InDesign, Illustrator, Photoshop, After Effects, Premiere, Lightroo
 </tr>
 </table>
 
+<br>
 ---
-<br><br>
 ## 🚀 Top 3 Exemplary Projects
 
 ### 1. Kirby Air Riders Stat Chart
@@ -117,6 +119,7 @@ Adobe Suite (InDesign, Illustrator, Photoshop, After Effects, Premiere, Lightroo
 - [🌐 my website]
 - [📫 email me](mailto:Bradley.Larkin.techdev@gmail.com?subject=Your%20Subject&body=Body%20text)
 
+<br>
 ---
 ### Fun stuff
 
