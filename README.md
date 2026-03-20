@@ -6,7 +6,7 @@ I have a Bachelors of science in Full-stack web development and above a 4.0 GPA 
 
 One of my biggest strengths is my ability to adapt and learn quickly, Accomplishing advanced projects rather quickly even in unknown programs and programming languages.
 
-<br>
+<br><br>
 ---
 ## 🧠 Professional Skills & Tools
 
@@ -18,7 +18,7 @@ Conflict Resolution • Critical Thinking
 Microsoft Suite (Word, PowerPoint, Excel)  
 Adobe Suite (InDesign, Illustrator, Photoshop, After Effects, Premiere, Lightroom)
 
-<br>
+<br><br>
 ---
 ## 💻 Tech Stack
 
@@ -90,7 +90,7 @@ Adobe Suite (InDesign, Illustrator, Photoshop, After Effects, Premiere, Lightroo
 </tr>
 </table>
 
-<br>
+<br><br>
 ---
 ## 🚀 Top 3 Exemplary Projects
 
@@ -112,6 +112,7 @@ Adobe Suite (InDesign, Illustrator, Photoshop, After Effects, Premiere, Lightroo
 - Responsive multi-size layouts  
 - Strong CSS execution  
 
+<br><br>
 ---
 ## My Links
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/bradley-l-81266098/)
@@ -119,7 +120,7 @@ Adobe Suite (InDesign, Illustrator, Photoshop, After Effects, Premiere, Lightroo
 - [🌐 my website]
 - [📫 email me](mailto:Bradley.Larkin.techdev@gmail.com?subject=Your%20Subject&body=Body%20text)
 
-<br>
+<br><br>
 ---
 ### Fun stuff
 
