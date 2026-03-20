@@ -116,8 +116,11 @@ Adobe Suite (InDesign, Illustrator, Photoshop, After Effects, Premiere, Lightroo
 ---
 ## My Links
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bradley-l-81266098/)
+  
   [![CodePen](https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen)](https://codepen.io/Bradley-Larkin-Infinity-Golf)
+  
   [![Website](https://img.shields.io/badge/Website-987654?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website-link-here.com)
+  
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bradley.Larkin.techdev@gmail.com)
 
 <br><br>
