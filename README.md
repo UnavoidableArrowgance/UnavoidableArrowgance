@@ -6,9 +6,9 @@ I have a Bachelors of science in Full-stack web development and above a 4.0 GPA 
 
 One of my biggest strengths is my ability to adapt and learn quickly, Accomplishing advanced projects rather quickly even in unknown programs and programming languages.
 
-
+---
 <br><br>
-## 🧠 Tech Stack & Skills
+## 🧠 Professional Skills & Tools
 
 ### ⭐ Standout Skills
   Analysis • Rapid Learning & Application • Wireframing & Prototyping • Unit Testing  
@@ -19,6 +19,7 @@ Microsoft Suite (Word, PowerPoint, Excel)
 Adobe Suite (InDesign, Illustrator, Photoshop, After Effects, Premiere, Lightroom)
 
 ---
+## 💻 Tech Stack
 
 ### 💻 Front-End
 <table>
@@ -87,7 +88,7 @@ Adobe Suite (InDesign, Illustrator, Photoshop, After Effects, Premiere, Lightroo
 <td align="center" width="120">📉<br><strong>Lean</strong></td>
 </tr>
 </table>
-
+---
 <br><br>
 ## 🚀 Top 3 Exemplary Projects
 
@@ -109,13 +110,14 @@ Adobe Suite (InDesign, Illustrator, Photoshop, After Effects, Premiere, Lightroo
 - Responsive multi-size layouts  
 - Strong CSS execution  
 
-
+---
 ## My Links
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/bradley-l-81266098/)
 - [![CodePen](https://img.shields.io/badge/CodePen-black?style=for-the-badge)](https://codepen.io/Bradley-Larkin-Infinity-Golf)
 - [🌐 my website]
 - [📫 email me](mailto:Bradley.Larkin.techdev@gmail.com?subject=Your%20Subject&body=Body%20text)
 
+---
 
 ### Fun stuff
 
