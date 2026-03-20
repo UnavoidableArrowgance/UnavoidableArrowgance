@@ -2,33 +2,53 @@
 
 I am an experienced developer with skills in multiple programming languages. This includes front end and back end languages along with Database coding such as SQL.
 
-I have a Bachelors of science in Full-stack web development and above a 4.0 GPA when I graduated. Many of mine are available here on github or on codepen, [my Codepen profile here](https://codepen.io/Bradley-Larkin-Infinity-Golf). They often went above and beyond what was required and used self learned techniques from self studies beyond what was taught in class.
+I have a Bachelors of science in Full-stack web development and above a 4.0 GPA when I graduated. Many of mine are available here on github or on [![CodePen](https://img.shields.io/badge/CodePen-black?style=for-the-badge)](https://codepen.io/Bradley-Larkin-Infinity-Golf). They often went above and beyond what was required and used self learned techniques from self studies beyond what was taught in class.
 
 One of my biggest strengths is my ability to adapt and learn quickly, Accomplishing advanced projects rather quickly even in unknown programs and programming languages.
 
 
 <br><br>
-## Knowledge and skill base
+## 🧠 Knowledge and Skill Base
 
-### Some standout skills:
-**Analysis, learning then applying, Wireframing/prototyping, unit testing, Conflict resolution, Critical thinking, Adobe suite and Microsoft suite of products/programs**
-  
-  (Microsoft Word, Powerpoint, Excel, 
-  Adobe Indesign, Illustrator, Photoshop, After effects, Media encoder, Premier, Bridge, Lightroom, Acrobat, Fonts)
+### ⭐ Standout Skills
+Analysis • Learning & Application • Wireframing/Prototyping • Unit Testing  
+Conflict Resolution • Critical Thinking  
 
-### Front-end languages:
-**Html, CSS, JavaScript, Typescript, React, React Native**
-(add icons for skills)
+🛠 Tools:  
+Microsoft Word • PowerPoint • Excel  
+Adobe InDesign • Illustrator • Photoshop • After Effects • Premiere • Lightroom  
 
+---
 
-### Back-end Languages:
-**Java, Python, Node JS, MySQL**
-(add icons for skills)
+### 💻 Front-End
 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+</p>
 
+HTML • CSS • JavaScript • TypeScript • React • React Native
 
-### Work processes:
-**SCRUM, Sprints, Kanban, XP, Agile, Lean**
+---
+
+### 🖥 Back-End
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+Java • Python • Node.js • MySQL
+
+---
+
+### ⚙️ Work Processes
+SCRUM • Sprints • Kanban • XP • Agile • Lean
 
 <br><br>
 ## 🚀 Top 3 Exemplary Projects
