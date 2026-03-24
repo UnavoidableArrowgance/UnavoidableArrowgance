@@ -139,7 +139,7 @@ ___
 
 #### 🍔 Burger King Animated Logo
 
-![Burger King Animation](https://youtu.be/WMbHL_Ygshk?si=HBEXyCh8yAWBLCzQ)
+![Burger King Animation](https://www.youtube.com/watch?v=WMbHL_Ygshk)
 
 - Motion design and animation using After Effects  
 - Focus on branding and visual storytelling  
