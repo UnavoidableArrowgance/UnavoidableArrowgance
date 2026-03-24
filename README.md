@@ -137,24 +137,12 @@ ___
 
 ### 🎨 Creative / Motion Work
 
-#### 🍔 Burger King Animated Logo
+## 🍔 Burger King Animated Logo
 
-![Burger King Animation](https://www.youtube.com/watch?v=WMbHL_Ygshk)
+▶️ **Watch Animation**
 
-- Motion design and animation using After Effects  
-- Focus on branding and visual storytelling  
+[![Watch Animation](https://img.youtube.com/vi/WMbHL_Ygshk/0.jpg)](https://www.youtube.com/watch?v=WMbHL_Ygshk)
 
-<!--
-**UnavoidableArrowgance/UnavoidableArrowgance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Motion design and branding animation  
+- Created using After Effects  
+- Focused on clean logo transformation and timing   
