@@ -129,15 +129,13 @@ ___
 
 <br><br>
 ___
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-### Fun stuff
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=UnavoidableArrowgance&show_icons=true)
+## Fun stuff
 
 [Codepen game](https://codepen.io/Bradley-Larkin-Infinity-Golf/pen/myVGQaa)
 
 
-### 🎨 Creative / Motion Work
-
-## 🍔 Burger King Animated Logo
+### 🍔 Burger King Animated Logo
 
 ▶️ **Watch Animation**
 
