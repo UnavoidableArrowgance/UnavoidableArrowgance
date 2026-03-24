@@ -129,18 +129,20 @@ ___
 
 <br><br>
 ___
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 ### Fun stuff
 
 [Codepen game](https://codepen.io/Bradley-Larkin-Infinity-Golf/pen/myVGQaa)
 
-|   |   |   |
-|---|---|---|
-| [ ](#) | [ ](#) | [ ](#) |
-| [ ](#) | [ ](#) | [ ](#) |
-| [ ](#) | [ ](#) | [ ](#) |
 
+### 🎨 Creative / Motion Work
 
+#### 🍔 Burger King Animated Logo
 
+![Burger King Animation](https://youtu.be/WMbHL_Ygshk?si=HBEXyCh8yAWBLCzQ)
+
+- Motion design and animation using After Effects  
+- Focus on branding and visual storytelling  
 
 <!--
 **UnavoidableArrowgance/UnavoidableArrowgance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
