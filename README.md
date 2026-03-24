@@ -129,7 +129,11 @@ ___
 
 <br><br>
 ___
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=UnavoidableArrowgance&show_icons=true)
+## 🚧 Currently Working On
+
+- A desktop on a website
+- Expanding full-stack project portfolio
+___ 
 ## Fun stuff
 
 [Codepen game](https://codepen.io/Bradley-Larkin-Infinity-Golf/pen/myVGQaa)
