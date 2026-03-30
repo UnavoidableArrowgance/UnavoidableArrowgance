@@ -1,3 +1,4 @@
+![Alt text](stacked.webp)
 # Hello And Welcome To Bradley Larkin's Page
 
 I am an experienced developer with skills in multiple programming languages. This includes front end and back end languages along with Database coding such as SQL.
