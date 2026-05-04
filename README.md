@@ -99,7 +99,7 @@ ___
 ___
 ## 🚀 Top 3 Exemplary Projects
 
-### 1. Kirby Air Riders Stat Chart
+### 1. WebDesk
 🔗 https://WebDeskApp.com
 - Original full web application concept
 - Strong JavaScript functionality and local storage handling
