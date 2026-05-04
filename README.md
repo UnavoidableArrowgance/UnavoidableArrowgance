@@ -100,18 +100,24 @@ ___
 ## 🚀 Top 3 Exemplary Projects
 
 ### 1. Kirby Air Riders Stat Chart
+🔗 https://WebDeskApp.com
+- Original full web application concept
+- Strong JavaScript functionality and local storage handling
+- Interactive desktop-style UI with custom icons, modes, and user customization
+
+### 2. Kirby Air Riders Stat Chart
 🔗 https://unavoidablearrowgance.github.io/Kirby-AirRiders-Stat-Chart/  
 - Strong JavaScript functionality  
 - Advanced JSON data handling  
 - Interactive stat visualization  
 
-### 2. Mini Golf Supplies
+### 3. Mini Golf Supplies
 🔗 https://unavoidablearrowgance.github.io/Mini-Golf_Supplies/  
 - Advanced form validation  
 - Strong user feedback system  
 - Accessibility-focused design  
 
-### 3. Wunderlust Majorca
+### 4. Wunderlust Majorca
 🔗 https://unavoidablearrowgance.github.io/Wunderlust/wunderlust-majorca  
 - Pixel-perfect design implementation  
 - Responsive multi-size layouts  
