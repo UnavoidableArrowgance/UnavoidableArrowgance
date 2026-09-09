@@ -105,23 +105,17 @@ ___
 - Strong JavaScript functionality and local storage handling
 - Interactive desktop-style UI with custom icons, modes, and user customization
 
-### 2. Kirby Air Riders Stat Chart
+### 3. Kirby Air Riders Stat Chart
+🔗 [AWS K8s Helm TF Jenkins CI/CD Build  ](https://github.com/UnavoidableArrowgance/Full_Build_TF-AWS)
+- fully working cloud setup enviornment
+- Set up and tear down files included to run on your own computer
+- All built from scratch
+ 
+### 3. Kirby Air Riders Stat Chart
 🔗 https://unavoidablearrowgance.github.io/Kirby-AirRiders-Stat-Chart/  
 - Strong JavaScript functionality  
 - Advanced JSON data handling  
 - Interactive stat visualization  
-
-### 3. Mini Golf Supplies
-🔗 https://unavoidablearrowgance.github.io/Mini-Golf_Supplies/  
-- Advanced form validation  
-- Strong user feedback system  
-- Accessibility-focused design  
-
-### 4. Wunderlust Majorca
-🔗 https://unavoidablearrowgance.github.io/Wunderlust/wunderlust-majorca  
-- Pixel-perfect design implementation  
-- Responsive multi-size layouts  
-- Strong CSS execution  
 
 <br><br>
 ___
