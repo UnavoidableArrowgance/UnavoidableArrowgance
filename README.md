@@ -136,7 +136,7 @@ ___
 - Strong JavaScript functionality and local storage handling
 - Interactive desktop-style UI with custom icons, modes, and user customization
 
-### 3. Kirby Air Riders Stat Chart
+### 2. Full Backend infrastructure build
 🔗 [AWS K8s Helm TF Jenkins CI/CD Build  ](https://github.com/UnavoidableArrowgance/Full_Build_TF-AWS)
 - fully working cloud setup enviornment
 - Set up and tear down files included to run on your own computer
