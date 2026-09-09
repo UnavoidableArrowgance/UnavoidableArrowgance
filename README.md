@@ -92,13 +92,16 @@ ___
   <strong>AWS</strong>
 </td>
 <td align="center" width="120">
+  <strong>Docker</strong>
+</td>
+<td align="center" width="120">
   <strong>K8s</strong>
 </td>
 <td align="center" width="120">
-  <strong>Jenkins</strong>
+  <strong>Terraform</strong>
 </td>
 <td align="center" width="120">
-  <strong>Docker</strong>
+  <strong>Jenkins</strong>
 </td>
 <td align="center" width="120">
   <strong>Open Telemetry</strong>
