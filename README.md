@@ -98,7 +98,7 @@ ___
   <strong>Jenkins</strong>
 </td>
 <td align="center" width="120">
-  <strong>Docker(pods)</strong>
+  <strong>Docker</strong>
 </td>
 <td align="center" width="120">
   <strong>Open Telemetry</strong>
