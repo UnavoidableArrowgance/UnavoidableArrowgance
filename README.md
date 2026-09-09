@@ -16,6 +16,8 @@ ___
 Conflict Resolution • Critical Thinking
 
 ### 🛠 Tools
+**Cloud Suite**  
+AWS(IAM, Networks, Security, Routing,  Route 53, Cron jobs & Lambda, Load Balancers, Storage and S3 buckets), Jenkins, Docker, Linux & Windows dev environments
 
 **Microsoft Suite**  
 Word • PowerPoint • Excel  
@@ -77,6 +79,32 @@ ___
 <td align="center" width="140">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>
   <strong>MySQL</strong>
+</td>
+</tr>
+</table>
+
+<br>
+
+### ☁ DevOps CI/CD
+<table>
+<tr>
+<td align="center" width="120">
+  <strong>AWS</strong>
+</td>
+<td align="center" width="120">
+  <strong>K8s</strong>
+</td>
+<td align="center" width="120">
+  <strong>Jenkins</strong>
+</td>
+<td align="center" width="120">
+  <strong>Docker(pods)</strong>
+</td>
+<td align="center" width="120">
+  <strong>Open Telemetry</strong>
+</td>
+<td align="center" width="120">
+  <strong>Prometheus/Grafana</strong>
 </td>
 </tr>
 </table>
